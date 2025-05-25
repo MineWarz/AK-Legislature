@@ -7,7 +7,7 @@
 This Act is to provide a clear and simple process for voting on legislation.
 
 ### Section I
-Changes to proposed Legislation are permitted during the period after its submission to the Council considering it, whether in private Council chambers, or in the public Conclave. There is a minimum of two weeks for a piece of legislation to be officially proposed before it can be voted on. In the course of debate, changes or edits are permitted until one week before the voting period begins. Should it be required that changes be made during the last week leading up to the vote, the vote must be rescheduled so that another week may pass for public visibility. Any changes or edits made to the Legislation after it has been moved to Proposed Acts will be notated and documented in a changelog at the end of the Legislation, which must be removed if the Legislation is passed and before it is published as a Law. As outlined in the Constitution, the timing and scheduling limitations may be waived during an April event.   See Appendix 1 for workflow.
+Changes to proposed Legislation are permitted during the period after its submission to the Council considering it, whether in private Council chambers, or in the public Conclave. There is a minimum of two weeks for a piece of legislation to be officially proposed before it can be voted on. In the course of debate, changes or edits are permitted until one week before the voting period begins. Should it be required that changes be made during the last week leading up to the vote, the vote must be rescheduled so that another week may pass for public visibility. Any changes or edits made to the Legislation after it has been moved to Proposed Acts will be notated and documented in a changelog at the end of the Legislation, which must be removed if the Legislation is passed and before it is published as a Law. As outlined in the Constitution, the timing and scheduling limitations may be waived during an April event. See Appendix 1 for workflow.
 
 ### Section II
 1. The Grandmaster should schedule a vote for legislation, waiting at least 2 weeks for public viewing. The Grandmaster should also ensure all battalion representatives are notified of the scheduled date of the vote.
@@ -59,4 +59,4 @@ These are examples for the purpose of making the process clear and not a hard re
 1. One week before the scheduled vote, no further changes permitted.
 1. Public viewing period ends; all discussion, debate, and queries cease.
 1. Voting period opens; both Councils vote for or against Legislation in its entirety.
-1. Upon passage, the Grandmaster or First Ranger removes the changelog to create a clean document and publishes it as Law in mandated locations
+1. Upon passage, the Grandmaster or First Ranger removes the changelog to create a clean document and publishes it as Law in mandated locations.
