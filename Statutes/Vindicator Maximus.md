@@ -46,8 +46,3 @@ Based on the results of the Council Challenge and Inquiry, one of two outcomes w
 1. Should the Grandmaster’s logic be found to be faulty and therefore the Vindicator’s acceptance be questionable, the material is shared with the Councils, and after discussion and review of the material, a vote held.
     1. If the Councils’ vote in favor of the Grandmaster through a 3/5ths super majority, the Challenge fails, and the two Council members are barred from filling the same role in the future. This also means that the Grandmaster does not need to win a subsequent confidence vote to activate another Vindicator within the next calendar year as described in Article 1, Section VI, Subsection A.
     1. If the Councils’ vote against the Grandmaster, they are immediately stripped of rank and privilege, and the Succession Act leveraged to identify a Grandmaster Pro-Tem till a new election can be held.
-
-## Article 3 - Implementation
-
-### Section I
-This act shall take effect as soon as voted and approved by both Councils.
