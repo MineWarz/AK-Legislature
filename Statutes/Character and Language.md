@@ -2,6 +2,9 @@
 
 # Character and Language
 
+## Preamble
+The Order, as a highly functioning and evolving body, often and constantly communicates with each other through written methods. This act aims to standardize the language and text formatting used in official Knight capacities to English and ASCII characters in order to provide clarity and ease when attempting to work with Knights and those outside of the Order.
+
 ## Article 1 - Language Standardization
 
 ### Section I
