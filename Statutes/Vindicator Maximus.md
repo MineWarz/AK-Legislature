@@ -16,7 +16,7 @@ The selectee must be willing to accept the responsibility before seeing any of t
 1. If the Selectee declines the evidence as insufficient, the Grandmaster must wait at least 2 weeks before attempting again with the same selectee, with additional supportive evidence.
 
 ### Section IV
-Once a Vindicator is active, their judgement is absolute, inviolate, and beyond question, as it is the result of conclusions between themselves, the Grandmaster, and potentially the Grand Inquisitor. Their mandate is to remove heresy or treason quickly, efficiently, and without theatrics. Anyone confronted by the Vindicator is required to be given one chance to confess. Genuine confessions and repentance by members outside the Order of the Ashen Blade result in loss of rank if any, and transfer to the Ashen Blade. Subjects who are at that time members of the Ashen Blade are expelled from the Order. Subjects who refuse to confess or feign lack of knowledge on the matter are expelled from the Order. Members who are expelled are banned from attempting to rejoin the order for no less than one calendar year, such that they are barred from participating in an least one April event.
+Once a Vindicator is active, their judgement is absolute, inviolate, and beyond question, as it is the result of conclusions between themselves, the Grandmaster, and potentially the Grand Inquisitor. Their mandate is to remove heresy or treason quickly, efficiently, and without theatrics. Anyone confronted by the Vindicator is required to be given one chance to confess. Genuine confessions and repentance by members outside the Order of the Ashen Blade result in loss of rank if any, and transfer to the Ashen Blade. Subjects who are at that time members of the Ashen Blade are expelled from the Order. Subjects who refuse to confess or feign lack of knowledge on the matter are expelled from the Order. Members who are expelled are banned from attempting to rejoin the order for no less than one calendar year, such that they are barred from participating in at least one April event.
 
 ### Section V
 Should a person confronted by the Vindicator wish to challenge the Judgement, they have the burden to prove to the Vindicator (and only the Vindicator) they were acting under what they believed to be legitimate orders from a superior, with the assumption the Grandmaster was aware of their activities. Said proof would be screenshots of said exchanges, or provision of log files documenting said exchanges.
@@ -24,7 +24,7 @@ Should a person confronted by the Vindicator wish to challenge the Judgement, th
 ### Section VI
 Limitations on this role are as follows:
 
-1. The Grandmaster may not activate more than one Vindicator in a calendar year. Should the Grandmaster feel another must be designated in less time, they must first survive a confidence vote in both Councils
+1. The Grandmaster may not activate more than one Vindicator in a calendar year. Should the Grandmaster feel another must be designated in less time, they must first survive a confidence vote in both Councils.
 1. The designated Vindicator is only active as such for eight (8) calendar days.
 1. The confirmed selectee is barred from running for the position of Grandmaster for 180 days after first being approached and agreeing to view the evidence.
 1. The confirmed selectee is barred from being appointed to any position higher than their own for 180 days after completion of their eight (8) days as Vindicator.
@@ -43,9 +43,9 @@ After the end of the eighth day and conclusion of the Vindicator’s actions, on
 Based on the results of the Council Challenge and Inquiry, one of two outcomes would result.
 
 1. Should the two Council members be unable to fault the logic behind the actions leading up to the Grandmaster’s decision and Vindicator’s acceptance of the role, the Challenge fails. This also means that the Grandmaster does not need to win a subsequent confidence vote to activate another Vindicator within the next calendar year as described in Article 1, Section VI, Subsection A.
-1. Should the Grandmaster’s logic be found to be faulty and therefore the Vindicator’s acceptance be questionable, the material is shared with the Councils, and after discussion and review of the material, a vote held.
-    1. If the Councils’ vote in favor of the Grandmaster through a 3/5ths super majority, the Challenge fails, and the two Council members are barred from filling the same role in the future. This also means that the Grandmaster does not need to win a subsequent confidence vote to activate another Vindicator within the next calendar year as described in Article 1, Section VI, Subsection A.
-    1. If the Councils’ vote against the Grandmaster, they are immediately stripped of rank and privilege, and the Succession Act leveraged to identify a Grandmaster Pro-Tem till a new election can be held.
+1. Should the Grandmaster’s logic be found to be faulty and therefore the Vindicator’s acceptance be questionable, the material is shared with the Councils, and after discussion and review of the material, a vote is held.
+    1. If the Councils vote in favor of the Grandmaster through a 3/5ths super majority, the Challenge fails, and the two Council members are barred from filling the same role in the future. This also means that the Grandmaster does not need to win a subsequent confidence vote to activate another Vindicator within the next calendar year as described in Article 1, Section VI, Subsection A.
+    1. If the Councils vote against the Grandmaster, they are immediately stripped of rank and privilege, and the Succession Act leveraged to identify a Grandmaster Pro-Tem till a new election can be held.
 
 ## Article 3 - Implementation
 
