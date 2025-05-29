@@ -75,33 +75,33 @@ This proposed revision changes only things that were incorrect in some way, redu
 ~~~
 ## Preamble - Purpose
 ## Article 1 - The Grandmaster
-### Section 1 - The position
-### Section 2 - Becoming Grandmaster
-### Section 3 - Powers of foreign policy
+###	Section 1 - The position
+###	Section 2 - Becoming Grandmaster
+###	Section 3 - Powers of foreign policy
 ## Article 2 - The Upper Council
-### Section 1 - Membership
+###	Section 1 - Membership
 ## Article 3 - The Lower Council
-### Section 1 - Membership
+###	Section 1 - Membership
 ## Article 4 - Legislation
-### Section 1 - Powers to introduce
-### Section 2 - Viewing
-### Section 3 - Voting
+###	Section 1 - Powers to introduce
+###	Section 2 - Viewing
+###	Section 3 - Voting
 ## Article 5 - Battalions
-### Section 1 - Creation
-### Section 2 - Leadership
+###	Section 1 - Creation
+###	Section 2 - Leadership
 ## Article 6 - Emergency powers
-### Section 1 - Enactment
-### Section 2 - Power
-### Section 3 - Rejection
-### Section 4 - Revocation
+###	Section 1 - Enactment
+###	Section 2 - Power
+###	Section 3 - Rejection
+###	Section 4 - Revocation
 ## Article 7 - Trials
-### Section 1 - Grandmaster Impeachment
-### Section 2 - High Officer Impeachment
-### Section 3 - Knight Tribunal
+###	Section 1 - Grandmaster Impeachment
+###	Section 2 - High Officer Impeachment
+###	Section 3 - Knight Tribunal
 ## Article 8 - Amendments
-### Section 1 - Enactment
+###	Section 1 - Enactment
 ## Amendment 1 - Arbiters
-### Section 1 - Selection
-### Section 2 - Purpose
-### Section 3 - Restrictions
+###	Section 1 - Selection
+###	Section 2 - Purpose
+###	Section 3 - Restrictions
 ~~~
