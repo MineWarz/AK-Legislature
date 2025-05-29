@@ -47,7 +47,7 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 
 ### Section 2 - Voting
 1. All legislation must pass both Councils with an absolute majority and be approved by the Grandmaster.
-2. The Grandmaster has the power to veto all legislation either Council passes. Both Councils have the power to bypass a veto with two-thirds absolute majority of both Councils voting in favor of the legislation.
+2. The Grandmaster has the power to veto all legislation either Council passes. Both Councils have the power to bypass a veto with two thirds absolute majority of both Councils voting in favor of the legislation.
 
 ## Article 5 - The Battalions
 
@@ -73,7 +73,7 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 
 ### Section 3 - Rejection
 1. The Grandmaster has the power to reject Article 6 at any time against both Councils wishes.
-2. Should this occur, a two-thirds absolute majority vote of both Councils can give specific temporary powers, never absolute power, to an individual that is not the Grandmaster. The Councils cannot bestow these powers without the Grandmaster’s rejection of Article 6 being enacted at that time.
+2. Should this occur, a two thirds absolute majority vote of both Councils can give specific temporary powers, never absolute power, to an individual that is not the Grandmaster. The Councils cannot bestow these powers without the Grandmaster’s rejection of Article 6 being enacted at that time.
 
 ### Section 4 - Revocation
 1. An early revocation of Article 6 proposed by a body other than the Grandmaster must be approved by two thirds absolute majority of both Councils.
