@@ -23,8 +23,3 @@ A new rank of Corporal will be made. These will be above Knight and below Sergea
 
 ### Section IV - Rights and Responsibilities of Corporals
 Corporals do not receive any additional rights or responsibilities in promotion from Knight.
-
-## Article III - Implementation
-
-### Section I
-This act shall take effect as soon as it is voted and approved by both Councils and confirmed by the Grandmaster, pending any implementation requirements.
