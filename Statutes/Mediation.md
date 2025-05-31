@@ -137,7 +137,7 @@ In the rare instance that no Moderation Committee Members are suitable, the Mode
 
 As mediation’s purpose is to open communication and promote accountability, it would not be beneficial for any Notifier or Accused to have a ‘representative’, or someone who speaks on or formulates statements on their behalf.
 
-Traditionally, a support person’s role is to act as a semi-silent supportive bystander, meaning they might offer advice to an individual throughout mediation but otherwise do not talk on their behalf. Therefore, a support person may have a relevant role in mediation if a Notifier or Accused feels they need the support of someone directly..
+Traditionally, a support person’s role is to act as a semi-silent supportive bystander, meaning they might offer advice to an individual throughout mediation but otherwise do not talk on their behalf. Therefore, a support person may have a relevant role in mediation if a Notifier or Accused feels they need the support of someone directly.
 
 In these cases, a support person must meet the following requirements:
 
