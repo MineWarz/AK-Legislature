@@ -21,7 +21,7 @@ Unsavoury Behaviour may include any of the following behaviours (Please note: Th
 * Arguing (e.g. persistently ignoring or dismissing other participants' views, constantly pushing one’s agenda, using fallacious arguments such as mistaken beliefs as facts, or becoming accusatory towards those with opposing views).
 * Malicious False Accusations or Inflammatory Finger Pointing.
 
-If you are unsure of whether the behaviour is considered to be ‘unsavoury’, please see ‘Article 1, Section II - Negative Impact’.
+If you are unsure of whether the behaviour is considered to be ‘unsavoury’, please see ‘Article 1, *Section II - Negative Impact*’.
 
 ### Section II - Negative Impact
 
@@ -39,7 +39,7 @@ A behaviour may be considered ‘unsavoury’ if:
 * An individual or group of people feel a sense of helplessness in their experience of the behaviour.
 * An individual or group of people feel uncomfortable as a result of the behaviour.
 
-A note on whistleblowing: it is not punishable to call out behaviour, even if doing so makes someone feel ridiculed, unwanted, etc. However, it is important to be mindful of how that behaviour was called into question.
+A note on whistleblowing: it is not punishable to call out behaviour, even if doing so makes someone feel ridiculed, unwanted, etc. However, it is important to be mindful of *how* that behaviour was called into question.
 
 ### Section III - Notifiers
 
@@ -129,7 +129,7 @@ Indicators of Suitability:
 2. They have the time and capacity to begin mediation within a maximum of three (3) days, and the availability to respond to mediation within the seven (7) days after mediation has been announced (Or two to three (2-3) mediators are chosen that can provide this coverage so that matters are resolved quickly).
 3. They continue to uphold the eligibility requirements to become a Moderation Committee Member.
 
-In the rare instance that no Moderation Committee Members are suitable, the Moderation Committee may elect a Temporary Moderation Committee Member to become Lead Mediator for the duration of the seven (7) days of mediation. A Temporary Moderation Committee Member must meet the criteria as set out in Appointment Process (A2, SII) and indicators of suitability above.
+In the rare instance that no Moderation Committee Members are suitable, the Moderation Committee may elect a Temporary Moderation Committee Member to become Lead Mediator for the duration of the seven (7) days of mediation. A Temporary Moderation Committee Member must meet the criteria as set out in *Appointment Process* (A2, SII) and indicators of suitability above.
 
 ### Section II - Mediation Tools
 
@@ -183,8 +183,8 @@ Mediation may be deemed ‘unsuccessful’ if:
 3. Mediators are finding it difficult to keep conversation civil or productive.
 4. The unsavoury behaviour continues.
 
-In this case, the mediator/s can advise the Upper Council on their observations and recommendations for next steps / outcomes. Outcomes may include any of the outcomes listed in Successful Outcomes (A4, SI). Or, the Upper Council may decide the behaviour in question needs more action. If the Upper Council believes further action than outlined in this Act is required, other procedures or legislation may need consultation (e.g. The Trials Act).
+In this case, the mediator/s can advise the Upper Council on their observations and recommendations for next steps / outcomes. Outcomes may include any of the outcomes listed in *Successful Outcomes* (A4, SI). Or, the Upper Council may decide the behaviour in question needs more action. If the Upper Council believes further action than outlined in this Act is required, other procedures or legislation may need consultation (e.g. The Trials Act).
 
 ## Article 5 - Implementation
 
-The Mediation Act will come into effect immediately after majority vote in the Upper and Lower council. The Moderation Committee shall be formed immediately after this bill is established, as outlined in Article 4, and re-formed after each election as per the Appointment Process outlined in Article 2, Section III.
+The Mediation Act will come into effect immediately after majority vote in the Upper and Lower council. The Moderation Committee shall be formed immediately after this bill is established, as outlined in Article 4, and re-formed after each election as per the *Appointment Process* outlined in Article 2, Section III.
