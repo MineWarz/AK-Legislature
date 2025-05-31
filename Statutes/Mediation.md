@@ -184,7 +184,3 @@ Mediation may be deemed ‘unsuccessful’ if:
 4. The unsavoury behaviour continues.
 
 In this case, the mediator/s can advise the Upper Council on their observations and recommendations for next steps / outcomes. Outcomes may include any of the outcomes listed in Successful Outcomes (A4, SI). Or, the Upper Council may decide the behaviour in question needs more action. If the Upper Council believes further action than outlined in this Act is required, other procedures or legislation may need consultation (e.g. The Trials Act).
-
-## Article 5 - Implementation
-
-The Mediation Act will come into effect immediately after majority vote in the Upper and Lower council. The Moderation Committee shall be formed immediately after this bill is established, as outlined in Article 4, and re-formed after each election as per the Appointment Process outlined in Article 2, Section III.
