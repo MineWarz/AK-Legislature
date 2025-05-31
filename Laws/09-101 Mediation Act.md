@@ -1,5 +1,6 @@
 [Bill number: 9-101]: #
-[Author: Brushie Teeth]: #
+[Principal Author: Brushie Teeth]: #
+[Author: MontgomeryUSA]: #
 [Proposed Date: 5/7/2024]: #
 [Passed Date: 5/23/2024]: #
 

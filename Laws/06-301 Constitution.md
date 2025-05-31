@@ -1,5 +1,5 @@
 [Bill number: 6-301]: #
-[Author: Ghostise]: #
+[Principal Author: Ghostise]: #
 [Proposed Date: 4/11/2018]: #
 [Passed Date: 12/18/2018]: #
 

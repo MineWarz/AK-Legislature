@@ -1,5 +1,5 @@
 [Bill number: 7-301]: #
-[Author: Archmage LadyVulcan]: #
+[Principal Author: Archmage LadyVulcan]: #
 [Proposed Date: 6/26/2021]: #
 [Passed Date: 7/14/2021]: #
 

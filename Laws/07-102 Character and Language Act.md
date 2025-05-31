@@ -1,5 +1,5 @@
 [Bill number: 7-102]: #
-[Author: First Ranger YewhotookAPUSH]: #
+[Principal Author: First Ranger YewhotookAPUSH]: #
 [Proposed Date: 3/3/2020]: #
 [Passed Date: 3/15/2020]: #
 

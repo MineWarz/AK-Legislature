@@ -1,5 +1,5 @@
 [Bill number: 8-103]: #
-[Author: Grand Inquisitor Ghostise]: #
+[Principal Author: Grand Inquisitor Ghostise]: #
 [Author: Archmage Gryph667]: #
 [Proposed Date: 5/3/2022]: #
 [Passed Date: 5/17/2022]: #
