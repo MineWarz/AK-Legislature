@@ -2,6 +2,9 @@
 
 # Line of Succession
 
+## Preamble
+On the rare occasion that our leader, the Grandmaster is inactive, missing, or removed, our Order should have a line of succession so we are never truly leaderless again like the events of the Interregnum like in the latter half of Grandmaster Wicro’s reign. Avoiding these events will ensure we are never leaderless and broken during any period of time, be it the off season or during campaign.
+
 ### Section I
 The Grandmaster has the power to appoint any member of the Upper Council his regent and should inform both Councils of how long he will be absent for. Should the Grandmaster arrive earlier, the regency shall end and the Grandmaster assume command once again. The regent can hold their office of regent for ninety (90) days until they must forfeit the regency and the powers of the Grandmaster shall proceed down the line of succession outlined in this act.
 
