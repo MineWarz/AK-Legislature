@@ -31,8 +31,3 @@ For the sake of preservation of April Knights history, the First Herald will app
 
 ### Section II
 The scribe is responsible for ensuring every version of every document is stored securely in an accessible location. The documents should be stored in such a manner that it is easily verifiable that the documents have not been altered. The Grandmaster is responsible for ensuring this is the case.
-
-## Article 3 - Implementation
-
-### Section I
-This act shall take effect as soon as voted and approved by both Councils, and confirmed by the Grandmaster.
