@@ -1,6 +1,8 @@
 [Version: 2.1]: #
 
 # Elections
+
+## Preamble
 The purpose of this law is to codify the necessary election traditions into formal law, set timelines for each step of an election, and serve as a set of instructions for the Election Administrator.
 
 ## Article I - Election Administrator
