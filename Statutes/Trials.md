@@ -2,6 +2,7 @@
 
 # Trials
 
+## Preamble
 If a Knight is accused of a crime by any trustworthy party, a fair trial is warranted. This law outlines the occasions in which a trial may be called for, who may comprise the jury, and what punishments they have the authority to mete out.
 
 ## Article 1 - Conditions
