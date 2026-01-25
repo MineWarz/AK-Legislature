@@ -15,14 +15,18 @@ The full list of changes are below, organized by document.
 
 April Knights Constitution:
 * Wording is changed in Article 2, Section 1, replacing “First Steward” with “First Herald”
+
 Mutare Magic Act:
 * Wording is changed in Article 4, Section 1, replacing “First Steward” with “First Herald”
+
 Trials:
 * Wording is changed in Article 2, Section 2, replacing “First Steward” with “First Herald”
+
 Line of Succession Act:
 * Wording is changed in Article 3, replacing “First Steward” with “First Herald”
 * Wording is changed in Article 4, replacing “First Steward” with “First Herald”
 * Wording is changed in Article 5, replacing “First Steward” with “First Herald”
+
 Vindicaris Maximus:
 * Wording is changed in Article 1, Section 1, replacing “First Steward” with “First Herald”
 
