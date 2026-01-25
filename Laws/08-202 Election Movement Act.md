@@ -4,7 +4,7 @@
 [Passed Date: 3/9/2024]: #
 
 # Election Movement Act
-This bill proposes moving the April Knights Grandmaster election to late January. The law document executing this change can be found [here](../Statutes/Elections.md). The purpose of this document is to highlight the reasons why such a move would be beneficial for the Knights. If this bill passes, the law linked will be put into effect.
+This bill proposes moving the April Knights Grandmaster election to late January. The law document executing this change can be found [here](../Statutes/Election.md). The purpose of this document is to highlight the reasons why such a move would be beneficial for the Knights. If this bill passes, the law linked will be put into effect.
 
 ### Section I - Overview of reasons
 1. Healthier for the candidates
@@ -56,7 +56,7 @@ This bill will also preserve the **already passed** Constitutional revision deta
 ### *Section IV - Revise Election Act*
 The Election Act will need to be revised to reflect the new election date.
 
-The previous version is here. The new version is [here](../Statutes/Elections.md), and will replace the previous version.
+The previous version is here. The new version is [here](../Statutes/Election.md), and will replace the previous version.
 
 ### Section V - Enactment
 1. This bill proposes a revision to the Constitution and Election Act simultaneously. If passed, both the revisions go into effect as soon as this bill is passed by both Councils. The revisions may not take effect without each other.
