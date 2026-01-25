@@ -3,7 +3,7 @@
 # Elections
 The purpose of this law is to codify the necessary election traditions into formal law, set timelines for each step of an election, and serve as a set of instructions for the Election Administrator.
 
-## Article I - Election Administrator
+## Article 1 - Election Administrator
 
 ### Section I - Appointment
 1. It is the duty of the Grandmaster to nominate an Election Administrator for each and every election when an election is required, at the end of a campaign. The Lower Council is to approve the nominee with a simple majority vote so they can be appointed to that office. There are no qualifications to be appointed Election Administrator aside from that they cannot be a candidate in the election.
@@ -14,7 +14,7 @@ The purpose of this law is to codify the necessary election traditions into form
 2. The Election Administrator has the power to create a space to provide information and updates for the candidates standing for election. For example, a discord group message with all candidates.
 3. It is the duty of the Election Administrator to ensure that the debate remains civil. Should any comments be inflammatory, break our rules, or otherwise out of line the Election Administrator retains the right to remove that comment. Any comments that are removed are to be reported to the Lower Council.
 
-## Article II - Electors
+## Article 2 - Electors
 
 ### Section I - Registration
 1. Registration for an election must be opened no later than 24 hours after the conclusion of the April Event, or for any other reason if ordered by the Grandmaster. This is usually done via Reddit thread. Registration closes at the end of the voting window.
@@ -28,7 +28,7 @@ The purpose of this law is to codify the necessary election traditions into form
 2. Should a registration comment have any inconsistency, it shall be marked invalid and thrown out. It is the responsibility of the Elections Administrator to see that the inconsistency is corrected. The Elections Administrator is also required to inform the Lower Council of these inconsistencies and their efforts to correct them.
 3. Should an inconsistency be unable to be rectified by the time of the election, the Elections Administrator needs to mark the registration and the subsequent vote as invalid. Should this occur, the Elections Administrator must inform the Lower Council.
 
-## Article III - Ballots
+## Article 3 - Ballots
 
 ### Section I - The Electoral System
 1. Voting is done in the method of ranked choice. The candidate to receive over half of the total valid votes within the voting period wins the election.
@@ -39,7 +39,7 @@ The purpose of this law is to codify the necessary election traditions into form
 2. A Google Form template of the ballot is to be made and stored in the April Knights google drive for future use. This template will be constructed in the manner outlined by this legislation. The Google Forms feature “Shuffle Option Order” must be enabled.
 3. Multiple ballot entries from the same voter shall result in their votes being marked invalid. If a voter communicates promptly and directly with the Election Officer about technical difficulties regarding their vote, unintentional duplicates will not disqualify their one vote, at the discretion of the Election Officer.
 
-## Article IV - Timeline of the Election
+## Article 4 - Timeline of the Election
 
 ### Section I - Registration
 1. The registration thread for the next election opens as detailed in Article 2, Section 1. The registration thread remains open until the end of the voting window of the next election.
@@ -57,19 +57,19 @@ The purpose of this law is to codify the necessary election traditions into form
 2. The voting period will last for either 14 days or until every single registered voter has voted, whichever comes first. After this period the winner will be declared unless there is a tie.
 3. As noted in Article 2, Section 1, notifications will be sent to all Knights who registered to vote. A second wave of notifications may be authorized to send to Knights that do not vote within the first 7 days.
 
-## Article V - Ties
+## Article 5 - Ties
 
 ### Section I
 1. In the case of a tie between the final two candidates for office, a new debate thread will be made where both candidates will be able to have an additional debate. After three days of this new debate thread being live, a new vote will be held. This process will repeat itself until a winner can be decided upon.
 
-## Article VI - Political Speech
+## Article 6 - Political Speech
 
 ### Section I
 1. All oathsworn Knights of the Order are permitted to exercise political speech in support or in opposition of candidates, as long as it is not inflammatory or breaks the rules of either the Subreddit or the Discord.
 2. The Election Administrator or moderators have the power to determine if posts related to the election and Knight politics are inflammatory or break our rules and have the power to remove those posts in violation.
 3. Commanders have the power to determine if posts in battalion chats or subreddits related to the election and Knight politics are inflammatory or break our rules and have the power to remove those posts in violation.
 
-## Article VII - Enactment
+## Article 7 - Enactment
 
 ### Section I
 1. This act shall take effect as soon as it is voted and approved by both Councils and confirmed by the Grandmaster, pending any implementation requirements.
